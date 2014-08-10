@@ -511,7 +511,7 @@
 	<!-- End Quote -->
 
 	<!-- Begin Contact -->
-	<section id="section6">
+	<section id="section5">
 
 		<div class="contact">
 
