@@ -174,18 +174,18 @@
 		          						      		<div class="modal-body">
 		                                         						      			<div class="row">
 		                                         						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.3.0/BitSharesX-0.3.0.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX <span class="ion-social-windows"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.4/BitSharesX-0.4.4.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX <span class="ion-social-windows"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.3.0/BitSharesX-0.3.0.dmg" class="btn btn-default bolt-button-dark" >BitsharesX <span class="ion-social-apple" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.4/BitSharesX-0.4.4.dmg" class="btn btn-default bolt-button-dark" >BitsharesX <span class="ion-social-apple" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			</div>
 		          						      				          						      			   </div>  
 		          						      				          						      			   <div class="col-lg-12">
 		          						      				          						      			   <center>
-		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;">For Linux users, remember to checkout the tag 0.3.0 first</p></center>
+		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;">For Linux users, remember to checkout the tag 0.4.4 first</p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
-		          						      				          						      			   <code style="font-size: 11px;">git checkout 0.3.0"</code>
+		          						      				          						      			   <code style="font-size: 11px;">git checkout 0.4.0"</code>
 		          						      				          						      			   </div>
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
