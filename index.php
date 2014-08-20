@@ -185,7 +185,7 @@
 		          						      				          						      			   <center>
 		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;">For Linux users, remember to checkout the tag 0.4.4 first</p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
-		          						      				          						      			   <code style="font-size: 11px;">git checkout 0.4.0"</code>
+		          						      				          						      			   <code style="font-size: 11px;">git checkout 0.4.0</code>
 		          						      				          						      			   </div>
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
