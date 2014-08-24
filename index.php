@@ -14,9 +14,10 @@
 	<!-- Stylesheets -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
+	<link href="css/fonts.css" rel="stylesheet">
+	
 
-	<!-- Fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700%7cOpen+Sans:400,300,700' rel='stylesheet' type='text/css'>
+
 
 	<!-- jQuery Files -->
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
