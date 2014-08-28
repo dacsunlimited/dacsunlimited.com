@@ -175,7 +175,7 @@
 		          						      		<div class="modal-body">
 		                                         						      			<div class="row">
 		                                         						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.9/BitSharesX-0.4.9.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX <span class="ion-social-windows"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.9/BitSharesX-0.4.9-a.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX <span class="ion-social-windows"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
 		          						      			<a href="/binaries/wallet/0.4.9/BitSharesX-0.4.9.dmg" class="btn btn-default bolt-button-dark" >BitsharesX <span class="ion-social-apple" style="font-size: 18px;"></span></a>
