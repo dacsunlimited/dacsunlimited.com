@@ -175,21 +175,21 @@
 		          						      		<div class="modal-body">
 		                                         						      			<div class="row">
 		                                         						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.15/BitSharesX-0.4.15-a-x86.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX 32-bit<span class="ion-social-windows"  style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.16/BitSharesX-0.4.16-x86.exe" class=" btn btn-default bolt-button-dark" style="">BitsharesX 32-bit<span class="ion-social-windows"  style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.15/BitSharesX-0.4.15-a-x64.exe" class="btn btn-default bolt-button-dark" >BitsharesX 64-bit<span class="ion-social-windows" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.16/BitSharesX-0.4.16-x64.exe" class="btn btn-default bolt-button-dark" >BitsharesX 64-bit<span class="ion-social-windows" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-12">
-		          						      			<a href="/binaries/wallet/0.4.15/BitSharesX-0.4.15.dmg" class="btn btn-default bolt-button-dark" >BitsharesX <span class="ion-social-apple" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.16/BitSharesX-0.4.16.dmg" class="btn btn-default bolt-button-dark" >BitsharesX <span class="ion-social-apple" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			</div>
 		          						      				          						      			   </div>  
 		          						      				          						      			   <div class="col-lg-12">
 		          						      				          						      			   <center>
-		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;">For Linux users, remember to checkout the tag v0.4.15 first</p></center>
+		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;">For Linux users, remember to checkout the tag v0.4.16 first</p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
-		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.15</code>
+		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.16</code>
 		          						      				          						      			   </div>
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
