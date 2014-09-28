@@ -24,8 +24,8 @@ $translate[ "zn" ][ "modal_title" ] = '下载钱包';
 $translate[ "zn" ][ "btsx_32bit" ] = 'B比特股X 32位';
 $translate[ "zn" ][ "btsx_64bit" ] = '比特股X 64位';
 $translate[ "zn" ][ "btsx_osx" ] = '比特股X Mac OSX';
-$translate[ "zn" ][ "btsx_linux" ] = 'For Linux users, remember to checkout the tag v0.4.18 first';
-
+$translate[ "zn" ][ "btsx_linux1" ] = 'Linux用户, 请记住需要先检出tag ';
+$translate[ "zn" ][ "btsx_linux2" ] = '';
 
 // BTSX Intro 
 $translate[ "zn" ][ "btsxintro" ] = '你的加密货币以及比特资产的一站式商店。更多信息请访问';

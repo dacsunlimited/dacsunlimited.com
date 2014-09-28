@@ -26,7 +26,8 @@ $translate[ "en" ][ "modal_title" ] = 'Download Wallets';
 $translate[ "en" ][ "btsx_32bit" ] = 'BitsharesX 32-bit';
 $translate[ "en" ][ "btsx_64bit" ] = 'BitsharesX 64-bit';
 $translate[ "en" ][ "btsx_osx" ] = 'BitsharesX';
-$translate[ "en" ][ "btsx_linux" ] = 'For Linux users, remember to checkout the tag v0.4.18 first';
+$translate[ "en" ][ "btsx_linux1" ] = 'For Linux users, remember to checkout the tag ';
+$translate[ "en" ][ "btsx_linux2" ] = ' first';
 
 
 // BTSX Intro 

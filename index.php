@@ -62,7 +62,7 @@
 		          						      				          						      			   </div>  
 		          						      				          						      			   <div class="col-lg-12">
 		          						      				          						      			   <center>
-		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux" ]?></p></center>
+		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>v0.4.18<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
 		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.18</code>
 		          						      				          						      			   </div>
