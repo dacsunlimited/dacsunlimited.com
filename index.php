@@ -50,21 +50,21 @@
 		          						      		<div class="modal-body">
 		                                         						      			<div class="row">
 		                                         						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.18/BitSharesX-0.4.18-x86.exe" class=" btn btn-default bolt-button-dark" style=""><?=$translate[ $lang ][ "btsx_32bit" ]?> <span class="ion-social-windows"  style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20-x86.exe" class=" btn btn-default bolt-button-dark" style=""><?=$translate[ $lang ][ "btsx_32bit" ]?> <span class="ion-social-windows"  style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.18/BitSharesX-0.4.18-x64.exe" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20-x64.exe" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-12">
-		          						      			<a href="/binaries/wallet/0.4.18/BitSharesX-0.4.18.dmg" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20.dmg" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			</div>
 		          						      				          						      			   </div>  
 		          						      				          						      			   <div class="col-lg-12">
 		          						      				          						      			   <center>
-		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>v0.4.18<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
+		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>v0.4.20<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
-		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.18</code>
+		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.20</code>
 		          						      				          						      			   </div>
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
