@@ -410,7 +410,7 @@
 
 				<!-- Email -->
 				<div class="col-md-3">
-					<p class="contact-info-email"><a href="mailto:info@dacsunlimited.com"><em>info[at]dacsunlimited.com</em></a></p>
+					<p class="contact-info-email"><a href="mailto:info@dacsunlimited.com"><strong>info[at]dacsunlimited.com</strong></a></p>
 				</div>
 			</div>
 
