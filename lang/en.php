@@ -9,13 +9,13 @@ $translate[ "en" ][ "introtitle" ] = 'We are DACSUN &amp; we <em>believe</em> in
 $translate[ "en" ][ "ticker1" ] = 'Decentralization';
 $translate[ "en" ][ "ticker2" ] = 'self adaptation';
 $translate[ "en" ][ "ticker3" ] = 'Open Source';
-$translate[ "en" ][ "ticker4" ] = 'BitSharesX';
+$translate[ "en" ][ "ticker4" ] = 'BitShares PLAY';
 $translate[ "en" ][ "getstarted" ] = 'Get started';
 $translate[ "en" ][ "scroll" ] = 'Scroll to continue<br><img src="img/mouse.png" alt="mouse" />';
 
 
 // Navigation 
-$translate[ "en" ][ "btsx" ] = 'BITSHARESX';
+$translate[ "en" ][ "btsx" ] = 'PLAY';
 $translate[ "en" ][ "dac?" ] = 'DAC?';
 $translate[ "en" ][ "about" ] = 'ABOUT';
 $translate[ "en" ][ "dacs" ] = 'DACS';
@@ -23,16 +23,16 @@ $translate[ "en" ][ "contact" ] = 'CONTACT';
 
 // Download Wallet modal
 $translate[ "en" ][ "modal_title" ] = 'Download Wallets';
-$translate[ "en" ][ "btsx_32bit" ] = 'BitsharesX 32-bit';
-$translate[ "en" ][ "btsx_64bit" ] = 'BitsharesX 64-bit';
-$translate[ "en" ][ "btsx_osx" ] = 'BitsharesX';
+$translate[ "en" ][ "btsx_32bit" ] = 'Bitshares PLAY 32-bit';
+$translate[ "en" ][ "btsx_64bit" ] = 'Bitshares PLAY 64-bit';
+$translate[ "en" ][ "btsx_osx" ] = 'Bitshares PLAY';
 $translate[ "en" ][ "btsx_linux1" ] = 'For Linux users, remember to checkout the tag ';
 $translate[ "en" ][ "btsx_linux2" ] = ' first';
 
 
 // BTSX Intro 
-$translate[ "en" ][ "btsxintro" ] = 'Your one stop shop for cryptoequities and bitassets.<br>For information please visit ';
-$translate[ "en" ][ "btsxurl" ] = 'bitshares-x.info';
+$translate[ "en" ][ "btsxintro" ] = 'For information please visit ';
+$translate[ "en" ][ "btsxurl" ] = 'dacplay.org  ';
 $translate[ "en" ][ "download_wallets" ] = 'Download Wallets';
 $translate[ "en" ][ "delegate" ] = 'Our delegate: d.dacsun';
 
@@ -63,7 +63,7 @@ $translate[ "en" ][ "hiring" ] = "We're hiring new talents!";
 $translate[ "en" ][ "dac_list_title" ] = 'Our Dacs';
 $translate[ "en" ][ "dac_list_subtitle" ] = 'Unmanned companies that generate profits for their stakeholders.';
 $translate[ "en" ][ "dac_bank" ] = "Banking";
-$translate[ "en" ][ "dac_bank_desc" ] = "Bitshares X implements the business model of an exchange and bank in an unmanned, autonomous way. It is an exchange where securities, currencies, and commodities trade. By market shorting mechanism, Bitshares X creates Bitassets, such as BitUSD, BitCNY, and BitGLD, which track the value of their real world counterparties. Therefore in the form of Bitassets, you can deposit your hard-earned wealth in Bitshares X now. Unlike traditional banks, your account can never be frozen, your funds can never be seized, and the bank will never face bankruptcy. With your money sitting in Bitshares X, you can now sleep well. For more information, visit bitshares-x.info.";
+$translate[ "en" ][ "dac_bank_desc" ] = "BitShares  implements the business model of an exchange and bank in an unmanned, autonomous way. It is an exchange where securities, currencies, and commodities trade. By market shorting mechanism, BitShares creates Bitassets, such as bitUSD, bitCNY, and bitGOLD, which track the value of their real world counterparties. Therefore in the form of Bitassets, you can deposit your hard-earned wealth in BitShares  now. Unlike traditional banks, your account can never be frozen, your funds can never be seized, and the bank will never face bankruptcy. With your money sitting in BitShares, you can now sleep well. For more information, visit bitshares.org.";
 $translate[ "en" ][ "dac_domain" ] = "Domains";
 $translate[ "en" ][ "dac_domain_desc" ] = "Bitshares DNS is a decentralized top-level domain system, where domains end with .p2p. With blockchain technology, it resists to domain seizures and spying. It adopts a price discovery process similar to an auction to mitigate the problem of cyber-squatting, and therefore maximize the utility of the whole system.";
 $translate[ "en" ][ "dac_game" ] = "Game";
