@@ -10,10 +10,10 @@
 					<!-- Content -->
 					<div class="row">
 						<div class="col-lg-10 col-lg-offset-1" >
-							<h3 data-scroll-reveal="enter left and move 50px over 1.2s"><img src="img/btsx-logo-color.svg"  width="220"/></h3>
+							<h3 data-scroll-reveal="enter left and move 50px over 1.2s"><img src="http://playtalk.org/play_logo.png"  width="110"/></h3>
 							<hr data-scroll-reveal>
 							<p data-scroll-reveal><?=$translate[ $lang ][ "btsxintro" ]?>
-							<a target="_blank" href="http://www.bitshares-x.info" ><?=$translate[ $lang ][ "btsxurl" ]?></a></p>
+							<a target="_blank" href="http://dacplay.org/" ><?=$translate[ $lang ][ "btsxurl" ]?></a></p>
 							<a  href="#" data-toggle="modal" data-target="#walletModal" class="btn btn-default bolt-button-dark">
 								<?=$translate[ $lang ][ "download_wallets" ]?> &nbsp;&nbsp;<span class="ion-ios7-arrow-down"></span>
 								
@@ -25,7 +25,7 @@
 				</div>
 	<center>
 		<p>
-		<a class="btn btn-default  btn-success" href="btsx:d.dacsun/approve" style="border-radius: 0px;margin-top: 64px;"><span class="ion-ios7-heart"></span> <?=$translate[ $lang ][ "delegate" ]?></a>
+		<a class="btn btn-default  btn-success" href="bts:d.dacsun/approve" style="border-radius: 0px;margin-top: 64px;"><span class="ion-ios7-heart"></span> <?=$translate[ $lang ][ "delegate" ]?></a>
 		</p>
 	</center>
 			</div>
@@ -50,22 +50,22 @@
 		          						      		<div class="modal-body">
 		                                         						      			<div class="row">
 		                                         						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20-x86.exe" class=" btn btn-default bolt-button-dark" style=""><?=$translate[ $lang ][ "btsx_32bit" ]?> <span class="ion-social-windows"  style="font-size: 18px;"></span></a>
+		          						      			<a href="#" class=" btn btn-default bolt-button-dark" style=""><?=$translate[ $lang ][ "btsx_32bit" ]?> <span class="ion-social-windows"  style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
-		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20-x64.exe" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
+		          						      			<a href="#" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-12">
-		          						      			<a href="/binaries/wallet/0.4.20/BitSharesX-0.4.20.dmg" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
+		          						      			<a href="#" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			</div>
 		          						      				          						      			   </div>  
-		          						      				          						      			   <div class="col-lg-12">
+		          						      				          						      			  <!-- <div class="col-lg-12">
 		          						      				          						      			   <center>
 		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>v0.4.20<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
 		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
 		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.20</code>
-		          						      				          						      			   </div>
+		          						      				          						      			   </div>-->
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
 		
