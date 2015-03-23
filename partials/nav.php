@@ -25,7 +25,7 @@
 					<li><a href="#section1" data-id="section1" class="scroll-link"><?=$translate[ $lang ][ "btsx" ]?></a></li>
 					<li><a href="#section2" data-id="section2" class="scroll-link"><?=$translate[ $lang ][ "dac?" ]?></a></li>
 					<li><a href="#section3" data-id="section3" class="scroll-link"><?=$translate[ $lang ][ "about" ]?></a></li>
-					<li><a href="#section4" data-id="section4" class="scroll-link"><?=$translate[ $lang ][ "dacs" ]?></a></li>
+<!--					<li><a href="#section4" data-id="section4" class="scroll-link"><?=$translate[ $lang ][ "dacs" ]?></a></li>-->
 					<li><a href="#section5" data-id="section5" class="scroll-link"><?=$translate[ $lang ][ "contact" ]?></a></li>
 				<li>	<a href="https://github.com/dacsunlimited/BitSharesX/" class="" target="_blank"><i class="ion-beaker"></i></a></li>
 				<li>
