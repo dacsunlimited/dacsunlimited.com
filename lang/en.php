@@ -9,13 +9,13 @@ $translate[ "en" ][ "introtitle" ] = 'We are DACSUN &amp; we <em>believe</em> in
 $translate[ "en" ][ "ticker1" ] = 'Decentralization';
 $translate[ "en" ][ "ticker2" ] = 'self adaptation';
 $translate[ "en" ][ "ticker3" ] = 'Open Source';
-$translate[ "en" ][ "ticker4" ] = 'BitShares PLAY';
+$translate[ "en" ][ "ticker4" ] = 'DACPLAY';
 $translate[ "en" ][ "getstarted" ] = 'Get started';
 $translate[ "en" ][ "scroll" ] = 'Scroll to continue<br><img src="img/mouse.png" alt="mouse" />';
 
 
 // Navigation 
-$translate[ "en" ][ "btsx" ] = 'PLAY';
+$translate[ "en" ][ "btsx" ] = 'DACPLAY';
 $translate[ "en" ][ "dac?" ] = 'DAC?';
 $translate[ "en" ][ "about" ] = 'ABOUT';
 $translate[ "en" ][ "dacs" ] = 'DACS';
@@ -23,9 +23,9 @@ $translate[ "en" ][ "contact" ] = 'CONTACT';
 
 // Download Wallet modal
 $translate[ "en" ][ "modal_title" ] = 'Download Wallets';
-$translate[ "en" ][ "btsx_32bit" ] = 'Bitshares PLAY 32-bit';
-$translate[ "en" ][ "btsx_64bit" ] = 'Bitshares PLAY 64-bit';
-$translate[ "en" ][ "btsx_osx" ] = 'Bitshares PLAY';
+$translate[ "en" ][ "btsx_32bit" ] = 'DACPLAY 32-bit';
+$translate[ "en" ][ "btsx_64bit" ] = 'DACPLAY 64-bit';
+$translate[ "en" ][ "btsx_osx" ] = 'DACPLAY';
 $translate[ "en" ][ "btsx_linux1" ] = 'For Linux users, remember to checkout the tag ';
 $translate[ "en" ][ "btsx_linux2" ] = ' first';
 
