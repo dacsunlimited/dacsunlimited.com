@@ -23,11 +23,11 @@
 					</div>
 	
 				</div>
-	<center>
+<!--	<center>
 		<p>
 		<a class="btn btn-default  btn-success" href="bts:d.dacsun/approve" style="border-radius: 0px;margin-top: 64px;"><span class="ion-ios7-heart"></span> <?=$translate[ $lang ][ "delegate" ]?></a>
 		</p>
-	</center>
+	</center>-->
 			</div>
 	
 		</section>
