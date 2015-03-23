@@ -94,9 +94,9 @@
 						<h3 data-scroll-reveal="enter left and move 50px over 1.2s"><?=$translate[ $lang ][ "dactitle" ]?></h3>
 						<hr data-scroll-reveal>
 						<p data-scroll-reveal><?=$translate[ $lang ][ "daccontent" ]?></p>
-						<a data-scroll-reveal="enter right and move 50px over 1.2s" href="#" data-id="section5" class="btn btn-default bolt-button-dark scroll-link">
+						<!--<a data-scroll-reveal="enter right and move 50px over 1.2s" href="#" data-id="section5" class="btn btn-default bolt-button-dark scroll-link">
 							<?=$translate[ $lang ][ "ourdacs_btn" ]?> &nbsp;&nbsp;<span class="ion-ios7-arrow-down"></span>
-						</a>
+						</a>-->
 					</div>
 				</div>
 
@@ -213,33 +213,6 @@
 	</section>
 	<!-- End About DACsun -->
 
-<!-- Begin Call to Action / Jobs -->
-	<div class="cta">
-
-		<div class="container">
-
-			<div class="row">
-				<div class="col-lg-4 col-lg-offset-1">
-					<p>
-						<?=$translate[ $lang ][ "jobs" ]?>
-					</p>
-				</div>
-				<div class="col-lg-2">
-					<a href="mailto:info@dacsunlimited.com" data-id="section6" class="btn btn-default bolt-button-cta scroll-link">
-						<?=$translate[ $lang ][ "contact_btn" ]?>
-					</a>
-				</div>
-				<div class="col-lg-4">
-					<p>
-					<?=$translate[ $lang ][ "hiring" ]?>
-					</p>
-				</div>
-			</div>
-
-		</div>
-
-	</div>
-	<!-- End Call to Action -->
 
 
 
@@ -418,6 +391,38 @@
 
 	</section>
 	<!-- End Contact -->
+
+
+<!-- Begin Call to Action / Jobs -->
+	<div class="cta">
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col-lg-4 col-lg-offset-1">
+					<p>
+						<?=$translate[ $lang ][ "jobs" ]?>
+					</p>
+				</div>
+				<div class="col-lg-2">
+					<a href="mailto:info@dacsunlimited.com" data-id="section6" class="btn btn-default bolt-button-cta scroll-link">
+						<?=$translate[ $lang ][ "contact_btn" ]?>
+					</a>
+				</div>
+				<div class="col-lg-4">
+					<p>
+					<?=$translate[ $lang ][ "hiring" ]?>
+					</p>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+	<!-- End Call to Action -->
+
+
+
 
 	<!-- Begin Footer -->
 	<footer id="footer">
