@@ -244,7 +244,7 @@
 
 
 	<!-- Begin DAC listing  -->
-	<section id="section4">
+<!--	<section id="section4">
 
 		<div class="services summary ">
 
@@ -255,7 +255,7 @@
 
 
 
-					<!-- DAC Title -->
+					<!-- DAC Title --*>
 					<div class="col-lg-10 col-lg-offset-1 page-title-2">
 						<h3><?=$translate[ $lang ][ "dac_list_title" ]?></h3>
 						<hr>
@@ -264,7 +264,7 @@
 
 					<div class="col-lg-8 col-lg-offset-2" style="text-align: center;">
 
-						<!-- Nav --> 
+						<!-- Nav --*> 
 						<ul class="nav nav-tabs" style="display:inline-block;">
 						  <li class="active">
 							  	<a href="#bank" data-toggle="tab">
@@ -327,7 +327,7 @@
 
 					</div>
 
-					<!-- DAC Content -->
+					<!-- DAC Content --*>
 					<div class="col-lg-8 col-lg-offset-2">
 						<div class="tab-content">
 						  <div class="tab-pane fade active in" id="bank"><?=$translate[ $lang ][ "dac_bank_desc" ]?></div>
@@ -345,7 +345,7 @@
 
 		</div>
 
-	</section>
+	</section>-->
 	<!-- End DAC listings -->
 
 	<!-- Begin Quote -->
