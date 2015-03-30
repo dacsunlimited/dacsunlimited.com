@@ -8,12 +8,12 @@ $translate[ "zn" ][ "introtitle" ] = '我们是DACSUN &amp; 我们相信';
 $translate[ "zn" ][ "ticker1" ] = '去中心化';
 $translate[ "zn" ][ "ticker2" ] = '自适应';
 $translate[ "zn" ][ "ticker3" ] = '开源';
-$translate[ "zn" ][ "ticker4" ] = '比特股X';
+$translate[ "zn" ][ "ticker4" ] = 'DAC PLAY';
 $translate[ "zn" ][ "getstarted" ] = '现在就开始';
 $translate[ "zn" ][ "scroll" ] = '滚动以继续 <br><img src="img/mouse.png" alt="mouse" />';
 
 // Navigation 
-$translate[ "zn" ][ "btsx" ] = '比特股X';
+$translate[ "zn" ][ "btsx" ] = 'DAC PLAY';
 $translate[ "zn" ][ "dac?" ] = '何谓DAC?';
 $translate[ "zn" ][ "about" ] = '关于我们';
 $translate[ "zn" ][ "dacs" ] = 'DACS';
@@ -21,15 +21,15 @@ $translate[ "zn" ][ "contact" ] = '联系我们';
 
 // Download Wallet modal
 $translate[ "zn" ][ "modal_title" ] = '下载钱包';
-$translate[ "zn" ][ "btsx_32bit" ] = 'B比特股X 32位';
-$translate[ "zn" ][ "btsx_64bit" ] = '比特股X 64位';
-$translate[ "zn" ][ "btsx_osx" ] = '比特股X Mac OSX';
+$translate[ "zn" ][ "btsx_32bit" ] = 'DAC PLAY 32位';
+$translate[ "zn" ][ "btsx_64bit" ] = 'DAC PLAY 64位';
+$translate[ "zn" ][ "btsx_osx" ] = 'DAC PLAY Mac OSX';
 $translate[ "zn" ][ "btsx_linux1" ] = 'Linux用户, 请记住需要先检出tag ';
 $translate[ "zn" ][ "btsx_linux2" ] = '';
 
 // BTSX Intro 
 $translate[ "zn" ][ "btsxintro" ] = '你的加密货币以及比特资产的一站式商店。更多信息请访问';
-$translate[ "zn" ][ "btsxurl" ] = 'bitshares-x.info';
+$translate[ "zn" ][ "btsxurl" ] = 'dacplay.org';
 $translate[ "zn" ][ "download_wallets" ] = '下载钱包';
 $translate[ "zn" ][ "delegate" ] = '我们的受托人: d.dacsun';
 
