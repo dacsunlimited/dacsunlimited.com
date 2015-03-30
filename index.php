@@ -53,19 +53,19 @@
 		          						      			<a href="#" class=" btn btn-default bolt-button-dark" style=""><?=$translate[ $lang ][ "btsx_32bit" ]?> <span class="ion-social-windows"  style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-6">
-		          						      			<a href="#" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/pls/PLAY-0.0.2-x64.exe" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_64bit" ]?> <span class="ion-social-windows" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			<div class="col-lg-12">
-		          						      			<a href="#" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
+		          						      			<a href="/binaries/pls/PLAY-0.0.2.dmg" class="btn btn-default bolt-button-dark" ><?=$translate[ $lang ][ "btsx_osx" ]?> <span class="ion-social-apple" style="font-size: 18px;"></span></a>
 		          						      			</div>
 		          						      			</div>
 		          						      				          						      			   </div>  
-		          						      				          						      			  <!-- <div class="col-lg-12">
+		          						      				          						      			  <div class="col-lg-12">
 		          						      				          						      			   <center>
-		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>v0.4.20<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
-		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/bitsharesx.git</code><br>
-		          						      				          						      			   <code style="font-size: 11px;">git checkout v0.4.20</code>
-		          						      				          						      			   </div>-->
+		          						      				          						      			   <p style="color: #FFF; font-size: 16px;padding-top: 24px;"><?=$translate[ $lang ][ "btsx_linux1" ]?>pls/0.0.2<?=$translate[ $lang ][ "btsx_linux2" ]?></p></center>
+		          						      				          						      			   <code style="font-size: 11px;">git clone https://github.com/dacsunlimited/dac_play.git</code><br>
+		          						      				          						      			   <code style="font-size: 11px;">git checkout pls/0.0.2</code>
+		          						      				          						      			   </div>
 		          						      				          						      			   
 		          						      </div><!-- end .modal-body -->
 		
